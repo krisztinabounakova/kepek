@@ -4,9 +4,14 @@
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <title>Képek - Krisztina Bounakova</title>
 </head>
-<body vlink="#551A8B" text="#000000" link="#0000EE" bgcolor="#6600cc"
-alink="#EE0000">
-<div align="center"><img moz-do-not-send="true"
+<body vlink="#ff0000" text="#000000" link="#ff0000" bgcolor="#6600cc"
+alink="#ff0000">
+<div align="center"><br>
+<h1><a moz-do-not-send="true"
+href="https://krisztinabounakova.github.io/">vissza a
+főoldalra</a></h1>
+<br>
+<img moz-do-not-send="true"
 src="weboldal%20k%C3%A9pek/image0%20(2).jpeg" alt="" width="388"
 height="557"><br>
 <img moz-do-not-send="true"
