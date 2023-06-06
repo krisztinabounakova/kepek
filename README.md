@@ -38,8 +38,8 @@ width="388" height="577"><br>
 src="weboldal%20k%C3%A9pek/image9.jpeg" alt=""
 width="388" height="252"><br>
 <img moz-do-not-send="true"
-src="file:///C:/Users/Dell/Documents/D%C3%A1vid%20adatai/D%C3%A1vid%20munk%C3%A1i/Kriszti/weboldal/weboldal%20k%C3%A9pek/image10.jpeg"
-alt="" width="388" height="256"><br>
+src="weboldal%20k%C3%A9pek/image10.jpeg" alt=""
+width="388" height="256"><br>
 <img moz-do-not-send="true"
 src="weboldal%20k%C3%A9pek/IMG_0911.jpg" alt=""
 width="388" height="334"><br>
